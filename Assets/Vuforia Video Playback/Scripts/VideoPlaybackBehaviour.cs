@@ -140,14 +140,14 @@ public class VideoPlaybackBehaviour : MonoBehaviour
         if (m_path == null || m_path.Length == 0)
         {
             Debug.Log("Please set a video url in the Inspector");
-            HandleStateChange(VideoPlayerHelper.MediaState.ERROR);
+			StartCoroutine(HandleStateChange(VideoPlayerHelper.MediaState.ERROR));
             mCurrentState = VideoPlayerHelper.MediaState.ERROR;
             this.enabled = false;
         }
         else
         {
             // Set the current state to Not Ready
-            HandleStateChange(VideoPlayerHelper.MediaState.NOT_READY);
+			StartCoroutine(HandleStateChange(VideoPlayerHelper.MediaState.NOT_READY));
             mCurrentState = VideoPlayerHelper.MediaState.NOT_READY;
         }
         // Create the video player and set the filename
@@ -197,7 +197,7 @@ public class VideoPlaybackBehaviour : MonoBehaviour
             // Check for playback state change
             if (state != mCurrentState)
             {
-                HandleStateChange(state);
+				StartCoroutine(HandleStateChange(state));
                 mCurrentState = state;
             }
         }
@@ -214,7 +214,7 @@ public class VideoPlaybackBehaviour : MonoBehaviour
             // Check for playback state change
             if (state != mCurrentState)
             {
-                HandleStateChange(state);
+				StartCoroutine(HandleStateChange(state));
                 mCurrentState = state;
             }
         }
@@ -240,7 +240,7 @@ public class VideoPlaybackBehaviour : MonoBehaviour
         else
         {
             Debug.Log("Could not initialize video player");
-            HandleStateChange(VideoPlayerHelper.MediaState.ERROR);
+			StartCoroutine(HandleStateChange(VideoPlayerHelper.MediaState.ERROR));
             this.enabled = false;
         }
     }
@@ -273,7 +273,7 @@ public class VideoPlaybackBehaviour : MonoBehaviour
             sLoadingLocked = false;
 
             Debug.Log("Could not load video '" + m_path + "' for media type " + mMediaType);
-            HandleStateChange(VideoPlayerHelper.MediaState.ERROR);
+			StartCoroutine(HandleStateChange(VideoPlayerHelper.MediaState.ERROR));
             this.enabled = false;
         }
     } 
@@ -286,7 +286,7 @@ public class VideoPlaybackBehaviour : MonoBehaviour
         if (state == VideoPlayerHelper.MediaState.ERROR)
         {
             Debug.Log("Cannot prepare video, as the player is in error state.");
-            HandleStateChange(VideoPlayerHelper.MediaState.ERROR);
+			StartCoroutine(HandleStateChange(VideoPlayerHelper.MediaState.ERROR));
             this.enabled = false;
         }
         else
@@ -336,7 +336,7 @@ public class VideoPlaybackBehaviour : MonoBehaviour
             {
                 // Handle the state change
                 state = mVideoPlayer.GetStatus();
-                HandleStateChange(state);
+				StartCoroutine(HandleStateChange(state));
                 mCurrentState = state;
             }
 
@@ -373,7 +373,7 @@ public class VideoPlaybackBehaviour : MonoBehaviour
             mInitInProgess = false;
 
             // Set the current state to Not Ready
-            HandleStateChange(VideoPlayerHelper.MediaState.NOT_READY);
+			StartCoroutine(HandleStateChange(VideoPlayerHelper.MediaState.NOT_READY));
             mCurrentState = VideoPlayerHelper.MediaState.NOT_READY;
         }
     }
@@ -445,16 +445,17 @@ public class VideoPlaybackBehaviour : MonoBehaviour
 	}
 
     // Handle video playback state changes
-    private void HandleStateChange(VideoPlayerHelper.MediaState newState)
+	private IEnumerator HandleStateChange(VideoPlayerHelper.MediaState newState)
     {
+		yield return new WaitForSeconds(0.1f);
         // If the movie is playing or paused render the video texture
         // Otherwise render the keyframe
         if (newState == VideoPlayerHelper.MediaState.PLAYING ||
             newState == VideoPlayerHelper.MediaState.PAUSED)
         {
-            Material mat = GetComponent<Renderer>().material;
-            mat.mainTexture = mVideoTexture;
-            mat.mainTextureScale = new Vector2(1, 1);
+			Material mat = GetComponent<Renderer>().material;
+			mat.mainTexture = mVideoTexture;
+			mat.mainTextureScale = new Vector2(1, 1);
         }
         else
         {
