@@ -13,6 +13,8 @@ public class TrackableEventHandler : MonoBehaviour, ITrackableEventHandler
     private TrackableBehaviour mTrackableBehaviour;
     private bool mHasBeenFound = false;
     private bool mLostTracking;
+	private bool mPausedSinceLastLost;
+	private bool mStoppedSinceLastLost;
     private float mSecondsSinceLost;
     #endregion // PRIVATE_MEMBERS
 
@@ -31,10 +33,10 @@ public class TrackableEventHandler : MonoBehaviour, ITrackableEventHandler
 
     void Update()
     {
-        // Pause the video if tracking is lost for more than two seconds
+        // Pause the video if tracking is lost for more than one second
         if (mHasBeenFound && mLostTracking)
         {
-            if (mSecondsSinceLost > 2.0f)
+            if (mSecondsSinceLost > 1.0f && !mPausedSinceLastLost)
             {
                 VideoPlaybackBehaviour video = GetComponentInChildren<VideoPlaybackBehaviour>();
                 if (video != null &&
@@ -43,8 +45,21 @@ public class TrackableEventHandler : MonoBehaviour, ITrackableEventHandler
                     video.VideoPlayer.Pause();
                 }
 
-                mLostTracking = false;
+				mPausedSinceLastLost = true;
             }
+
+			// if we have lost the target for more than 3 seconds, replay the video
+			if (mSecondsSinceLost > 3.0f && !mStoppedSinceLastLost)
+			{
+				VideoPlaybackBehaviour video = GetComponentInChildren<VideoPlaybackBehaviour>();
+				if (video != null &&
+					video.CurrentState == VideoPlayerHelper.MediaState.PAUSED)
+				{
+					video.reset ();
+				}
+
+				mStoppedSinceLastLost = true;
+			}
 
             mSecondsSinceLost += Time.deltaTime;
         }
@@ -95,6 +110,7 @@ public class TrackableEventHandler : MonoBehaviour, ITrackableEventHandler
         }
 
         Debug.Log("Trackable " + mTrackableBehaviour.TrackableName + " found");
+		Debug.Log("Trackable " + mTrackableBehaviour.TrackableName + " has been lost for " + mSecondsSinceLost);
 
         // Optionally play the video automatically when the target is found
 
@@ -111,8 +127,8 @@ public class TrackableEventHandler : MonoBehaviour, ITrackableEventHandler
                     // Pause other videos before playing this one
                     PauseOtherVideos(video);
 
-                    // Play this video on texture where it left off
-                    video.VideoPlayer.Play(false, video.VideoPlayer.GetCurrentPosition());
+					// Play this video on texture where it left off
+					video.VideoPlayer.Play(false, video.VideoPlayer.GetCurrentPosition());  
                 }
                 else if (state == VideoPlayerHelper.MediaState.REACHED_END)
                 {
@@ -149,6 +165,8 @@ public class TrackableEventHandler : MonoBehaviour, ITrackableEventHandler
         Debug.Log("Trackable " + mTrackableBehaviour.TrackableName + " lost");
 
         mLostTracking = true;
+		mPausedSinceLastLost = false;
+		mStoppedSinceLastLost = false;
         mSecondsSinceLost = 0;
     }
 

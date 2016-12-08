@@ -433,6 +433,17 @@ public class VideoPlaybackBehaviour : MonoBehaviour
         mVideoTexture.wrapMode = TextureWrapMode.Clamp;
     }
 
+	public void reset() {
+		mVideoPlayer.SeekTo (0);
+		mVideoPlayer.Stop ();
+		if (mKeyframeTexture != null)
+		{
+			Material mat = GetComponent<Renderer>().material;
+			mat.mainTexture = mKeyframeTexture;
+			mat.mainTextureScale = new Vector2(1, -1);
+		}
+	}
+
     // Handle video playback state changes
     private void HandleStateChange(VideoPlayerHelper.MediaState newState)
     {
@@ -492,6 +503,11 @@ public class VideoPlaybackBehaviour : MonoBehaviour
             // Switching away from full screen, enable VuforiaBehaviour (only applicable for iOS)
             VuforiaBehaviour.Instance.enabled = true;
         }
+
+		// replay
+		if (newState == VideoPlayerHelper.MediaState.REACHED_END) {
+			mVideoPlayer.Play (false, 0);
+		}
     }
 
     private void ScaleIcon()
