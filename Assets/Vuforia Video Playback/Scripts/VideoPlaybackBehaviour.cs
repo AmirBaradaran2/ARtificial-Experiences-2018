@@ -435,7 +435,6 @@ public class VideoPlaybackBehaviour : MonoBehaviour
 
 	public void reset() {
 		mVideoPlayer.SeekTo (0);
-		mVideoPlayer.Stop ();
 		if (mKeyframeTexture != null)
 		{
 			Material mat = GetComponent<Renderer>().material;
@@ -447,7 +446,7 @@ public class VideoPlaybackBehaviour : MonoBehaviour
     // Handle video playback state changes
 	private IEnumerator HandleStateChange(VideoPlayerHelper.MediaState newState)
     {
-		yield return new WaitForSeconds(0.03f);
+		yield return new WaitForSeconds(0.06f);
         // If the movie is playing or paused render the video texture
         // Otherwise render the keyframe
         if (newState == VideoPlayerHelper.MediaState.PLAYING ||

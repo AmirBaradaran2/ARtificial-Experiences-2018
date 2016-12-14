@@ -33,10 +33,10 @@ public class TrackableEventHandler : MonoBehaviour, ITrackableEventHandler
 
     void Update()
     {
-        // Pause the video if tracking is lost for more than one second
+        // Pause the video if tracking is lost for more than two seconds
         if (mHasBeenFound && mLostTracking)
         {
-            if (mSecondsSinceLost > 1.0f && !mPausedSinceLastLost)
+            if (mSecondsSinceLost > 1.5f && !mPausedSinceLastLost)
             {
                 VideoPlaybackBehaviour video = GetComponentInChildren<VideoPlaybackBehaviour>();
                 if (video != null &&
@@ -48,8 +48,8 @@ public class TrackableEventHandler : MonoBehaviour, ITrackableEventHandler
 				mPausedSinceLastLost = true;
             }
 
-			// if we have lost the target for more than 3 seconds, replay the video
-			if (mSecondsSinceLost > 3.0f && !mStoppedSinceLastLost)
+			// if we have lost the target for more than 5 seconds, replay the video
+			if (mSecondsSinceLost > 4.0f && !mStoppedSinceLastLost)
 			{
 				VideoPlaybackBehaviour video = GetComponentInChildren<VideoPlaybackBehaviour>();
 				if (video != null &&
@@ -110,7 +110,7 @@ public class TrackableEventHandler : MonoBehaviour, ITrackableEventHandler
         }
 
         Debug.Log("Trackable " + mTrackableBehaviour.TrackableName + " found");
-		Debug.Log("Trackable " + mTrackableBehaviour.TrackableName + " has been lost for " + mSecondsSinceLost);
+		Debug.Log("unique specifier: Trackable " + mTrackableBehaviour.TrackableName + " has been lost for " + mSecondsSinceLost);
 
         // Optionally play the video automatically when the target is found
 
@@ -162,7 +162,7 @@ public class TrackableEventHandler : MonoBehaviour, ITrackableEventHandler
             component.enabled = false;
         }
 
-        Debug.Log("Trackable " + mTrackableBehaviour.TrackableName + " lost");
+        Debug.Log("unique specifier: Trackable " + mTrackableBehaviour.TrackableName + " lost");
 
         mLostTracking = true;
 		mPausedSinceLastLost = false;
