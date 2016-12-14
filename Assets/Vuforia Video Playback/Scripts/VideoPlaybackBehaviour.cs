@@ -447,7 +447,7 @@ public class VideoPlaybackBehaviour : MonoBehaviour
     // Handle video playback state changes
 	private IEnumerator HandleStateChange(VideoPlayerHelper.MediaState newState)
     {
-		yield return new WaitForSeconds(0.1f);
+		yield return new WaitForSeconds(0.03f);
         // If the movie is playing or paused render the video texture
         // Otherwise render the keyframe
         if (newState == VideoPlayerHelper.MediaState.PLAYING ||
