@@ -177,6 +177,7 @@ public class DisplayManager : MonoBehaviour {
 	}
 
 	IEnumerator TypeText (string message) {
+		textComp.text = "";
 		foreach (char letter in message.ToCharArray()) {
 			textComp.text += letter;
 			if (typeSound1 && typeSound2)
