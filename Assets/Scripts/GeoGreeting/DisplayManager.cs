@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
 // Location service not enabled
 // Sorry! Timed out
@@ -30,7 +31,7 @@ public class DisplayManager : MonoBehaviour {
 	private CoroutineQueue queue;
 	private Text textComp;
 
-	public float sentencePause = 1.3f;
+	public float sentencePause = 0.8f;
 	public float letterPause = 0.08f;
 	public AudioClip typeSound1;
 	public AudioClip typeSound2;
@@ -114,9 +115,9 @@ public class DisplayManager : MonoBehaviour {
 			} else {
 				queue.EnqueueAction (TypeText ("Be ready to see " + spot.GetName()));
 				queue.EnqueueWait (sentencePause);
+				queue.EnqueueAction (ChangeScene ("GeoCamera")); // this need to change scene
 				Input.location.Stop ();
 				mState = LocationState.Stopped;
-				// this need to change scene
 			}
 		} else if (mState == LocationState.Disabled) {
 			queue.EnqueueAction (TypeText ("Location service not enabled"));
@@ -159,6 +160,11 @@ public class DisplayManager : MonoBehaviour {
 				}
 			}
 		}
+	}
+
+	IEnumerator ChangeScene(string sceneName) {
+		SceneManager.LoadScene(sceneName);
+		yield return 0;
 	}
 
 	float Haversine() {
@@ -204,10 +210,9 @@ public class DisplayManager : MonoBehaviour {
 			if (tempDistance * KM_2_FOOT <= 100.0f) {
 				queue.EnqueueAction (TypeText ("congratulations! you made it!!!"));
 				queue.EnqueueWait (sentencePause);
+				queue.EnqueueAction (ChangeScene ("GeoCamera")); // this need to change scene
 				Input.location.Stop ();
 				mState = LocationState.Stopped;
-				// this need to change scene
-
 			} else if (tempDistance < mDistance * 0.5f) {
 				mDistance = tempDistance;
 				queue.EnqueueAction (TypeText ("you are getting closer now"));
