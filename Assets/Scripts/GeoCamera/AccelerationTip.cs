@@ -92,6 +92,11 @@ public class AccelerationTip : MonoBehaviour {
 		return false;
 	}
 
+	IEnumerator playVideo() {
+		Handheld.PlayFullScreenMovie (spot.GetVideoFile());
+		yield return 0;
+	}
+
 	// Update is called once per frame
 	void Update () {
 		if (finished) {
@@ -115,6 +120,7 @@ public class AccelerationTip : MonoBehaviour {
 			} else {
 				queue.EnqueueAction (TypeText ("you got it! Watch " + spot.GetName()));
 				queue.EnqueueWait (sentencePause);
+				queue.EnqueueAction (playVideo ());
 				finished = true;
 			}
 		} else {

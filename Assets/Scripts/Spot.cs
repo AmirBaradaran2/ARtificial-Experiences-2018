@@ -5,13 +5,15 @@ public class Spot {
 	private string name;
 	private string city;
 	private string museum;
+	private string videoFile;
 	private float[] coordinates;
 
-	public Spot(string name, string city, string museum, float[] coordinates) {
+	public Spot(string name, string city, string museum, string videoFile, float[] coordinates) {
 		this.name = name;
 		this.city = city;
 		this.museum = museum;
 		this.coordinates = coordinates;
+		this.videoFile = videoFile;
 	}
 
 	public string GetName() {
@@ -28,5 +30,9 @@ public class Spot {
 
 	public float[] GetCoordinates() {
 		return this.coordinates;
+	}
+
+	public string GetVideoFile() {
+		return this.videoFile;
 	}
 }
