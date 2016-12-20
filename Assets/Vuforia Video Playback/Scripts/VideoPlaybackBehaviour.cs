@@ -44,6 +44,8 @@ public class VideoPlaybackBehaviour : MonoBehaviour
     /// </summary>
     public bool m_autoPlay = false;
 
+	public bool m_isMonaLisa = false;
+
     #endregion // PUBLIC_MEMBER_VARIABLES
 
 
@@ -322,8 +324,16 @@ public class VideoPlaybackBehaviour : MonoBehaviour
                     // Scale the video plane to match the video aspect ratio
                     float aspect = videoHeight / (float)videoWidth;
 
+					if (m_isMonaLisa) {
+						aspect = 1.490234375f;
+					}
+
                     // Flip the plane as the video texture is mirrored on the horizontal
-                    transform.localScale = new Vector3(-0.1f, 0.1f, 0.1f * aspect);
+					if (m_isMonaLisa) {
+						transform.localScale = new Vector3 (-0.067f, 0.067f, 0.067f * aspect);
+					} else {
+						transform.localScale = new Vector3(-0.1f, 0.1f, 0.1f * aspect);
+					}
                 }
 
                 // Seek ahead if necessary
