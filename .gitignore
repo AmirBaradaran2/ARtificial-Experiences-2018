@@ -30,4 +30,7 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
+# iOS Directory
+/futarismiOS/*
+
 .DS_Store
