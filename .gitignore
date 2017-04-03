@@ -32,5 +32,6 @@ sysinfo.txt
 
 # iOS Directory
 /futarismiOS/*
+/futarismiOSFB/*
 
 .DS_Store
