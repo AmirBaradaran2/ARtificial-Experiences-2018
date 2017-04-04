@@ -46,6 +46,11 @@ public class LogInButtonTrigger : MonoBehaviour {
 			// Print current access token's User ID
 			Debug.Log("access token user id: " + aToken.UserId);
 			Debug.Log ("access token: " + aToken.TokenString);
+			PlayerPrefs.SetString("Facebook Access Token", aToken.TokenString);
+			Debug.Log ("fb access token saved to player prefs");
+			//print(PlayerPrefs.GetString("Player Name"));
+
+			Debug.Log ("Facebook permissions granted:");
 			// Print current access token's granted permissions
 			foreach (string perm in aToken.Permissions) {
 				Debug.Log(perm);
