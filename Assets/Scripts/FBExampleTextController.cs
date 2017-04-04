@@ -19,6 +19,8 @@ public class FBExampleTextController : MonoBehaviour {
 			// Already initialized, signal an app activation App Event
 			Debug.Log("fbexamplecontroller awake: fb already initialized");
 			FB.ActivateApp ();
+			showFBText();
+
 		}
 
 	}
