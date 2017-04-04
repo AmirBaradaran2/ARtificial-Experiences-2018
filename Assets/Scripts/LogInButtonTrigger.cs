@@ -5,22 +5,17 @@ using Facebook.Unity;
 public class LogInButtonTrigger : MonoBehaviour {
 
 	void Awake () {
-		Debug.Log ("loginbuttontrigger awake called");
-		Debug.Log ("initializing fb");
 		if (!FB.IsInitialized) {
 			// Initialize the Facebook SDK
 			FB.Init (InitCallback);
 		} else {
 			// Already initialized, signal an app activation App Event
-			Debug.Log("awake: fb already initialized");
 			FB.ActivateApp ();
 		}
-
 	}
-
-
+		
 	public void logIn() {
-		Debug.Log ("requesting login");
+		// Request FB Login with public profile and email permissions
 		var perms = new List<string>(){"public_profile", "email"};
 		FB.LogInWithReadPermissions(perms, AuthCallback);
 	}
@@ -28,12 +23,7 @@ public class LogInButtonTrigger : MonoBehaviour {
 	private void InitCallback ()
 	{
 		if (FB.IsInitialized) {
-			Debug.Log ("initcallback: fb successfully initialized, activating app");
-
-			// Signal an app activation App Event
 			FB.ActivateApp();
-			// Continue with Facebook SDK
-			// ...
 		} else {
 			Debug.Log("Failed to Initialize the Facebook SDK");
 		}
@@ -41,14 +31,17 @@ public class LogInButtonTrigger : MonoBehaviour {
 
 	private void AuthCallback (ILoginResult result) {
 		if (FB.IsLoggedIn) {
+			Debug.Log ("FB log in successful.");
 			// AccessToken class will have session details
 			var aToken = Facebook.Unity.AccessToken.CurrentAccessToken;
 			// Print current access token's User ID
-			Debug.Log("access token user id: " + aToken.UserId);
-			Debug.Log ("access token: " + aToken.TokenString);
+			Debug.Log("Access Token user id: " + aToken.UserId);
+			Debug.Log ("Access Token: " + aToken.TokenString);
+
+			// Save access token in Unity PlayerPrefs
 			PlayerPrefs.SetString("Facebook Access Token", aToken.TokenString);
-			Debug.Log ("fb access token saved to player prefs");
-			//print(PlayerPrefs.GetString("Player Name"));
+
+			Debug.Log ("FB access token saved to player prefs");
 
 			Debug.Log ("Facebook permissions granted:");
 			// Print current access token's granted permissions
@@ -59,7 +52,4 @@ public class LogInButtonTrigger : MonoBehaviour {
 			Debug.Log("User cancelled login");
 		}
 	}
-
-
-
 }

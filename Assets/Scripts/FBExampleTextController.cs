@@ -10,72 +10,55 @@ public class FBExampleTextController : MonoBehaviour {
 	string FBAccessTokenKey = "Facebook Access Token";
 
 	void Awake () {
-		Debug.Log ("fbexamplecontroller awake called");
-		Debug.Log ("initializing fb");
 		if (!FB.IsInitialized) {
 			// Initialize the Facebook SDK
 			FB.Init (InitCallback);
 		} else {
 			// Already initialized, signal an app activation App Event
-			Debug.Log("fbexamplecontroller awake: fb already initialized");
 			FB.ActivateApp ();
 			showFBText();
-
 		}
-
 	}
 
 	private void InitCallback ()
 	{
 		if (FB.IsInitialized) {
-			Debug.Log ("initcallback: fb successfully initialized, activating app");
-
 			// Signal an app activation App Event
 			FB.ActivateApp();
-			// Continue with Facebook SDK
-			// ...
 			showFBText();
-
 		} else {
 			Debug.Log("Failed to Initialize the Facebook SDK");
 		}
 	}
-
-	// Use this for initialization
-
+		
 	void showFBText () {
 		textDisplayed = gameObject.GetComponent<Text>(); 
-		Debug.Log ("retrieving FB access token from player prefs");
-		Debug.Log(PlayerPrefs.GetString(FBAccessTokenKey));
-		if (PlayerPrefs.HasKey (FBAccessTokenKey)) {
-			Debug.Log ("FB Access Token exists");
 
+		// retrieving FB access token from player prefs
+		if (PlayerPrefs.HasKey (FBAccessTokenKey)) {
+			Debug.Log ("FB Access Token exists: " + PlayerPrefs.GetString(FBAccessTokenKey));
+
+			// data we pass to the API request
 			var formData = new Dictionary<string,string> () { 
 				{ "fields", "name,email"},
 				{ "access_token", PlayerPrefs.GetString (FBAccessTokenKey) } };
 
+			// request info from the API
 			FB.API ("/me", HttpMethod.GET, APICallback, formData);
-
 
 		} else {
 			Debug.Log ("No FB Access Token found");
 			textDisplayed.text = "No FB Access Token found, please go back and log in with Facebook";
 		}
-
 	}
 
+	// called when FB API call returns
 	private void APICallback(IGraphResult result) {
-		Debug.Log ("api callback");
 		if (result.Error == null) {
-			Debug.Log (result.ToString());
-			Debug.Log (result.RawResult);
-
+			Debug.Log ("FB API response: " + result.RawResult);
 			textDisplayed.text = result.RawResult;
-
-
 		} else {
 			Debug.Log ("received error from api");
 		}
 	}
-
 }
