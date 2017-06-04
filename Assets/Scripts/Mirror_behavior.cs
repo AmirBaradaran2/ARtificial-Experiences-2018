@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+[ExecuteInEditMode]
 public class Mirror_behavior : MonoBehaviour {
 
     public int resolution = 2048;
@@ -13,9 +14,9 @@ public class Mirror_behavior : MonoBehaviour {
     void Start () {
         texture = new RenderTexture(resolution, resolution, 16);
         texture.name = "__Mirror" + GetInstanceID();
-        Debug.Log("Render Texture");
+        //Debug.Log("Render Texture");
         camera.targetTexture = texture;
-        renderer.materials[0].mainTexture = texture;
+        renderer.sharedMaterial.mainTexture = texture;
     }
 	
 	// Update is called once per frame

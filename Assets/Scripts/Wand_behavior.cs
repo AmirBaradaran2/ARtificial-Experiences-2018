@@ -32,15 +32,18 @@ public class Wand_behavior : MonoBehaviour {
     private LineRenderer line;
     private List<Vector3> points;
 
+    private ControllerFunctions drag_script;
+
     // Use this for initialization
     void Start () {
         tracked_obj = GetComponent<SteamVR_TrackedObject>();
+        drag_script = GetComponent<ControllerFunctions>();
         wand = GameObject.Find("Wand");
         pointer = GameObject.Find("Pointer");
         current_cursor = GameObject.Find("Cursor");
         brush = GameObject.Find("Brush");
         Text = GameObject.Find("Text");
-        laser_default_length = pointer.GetComponent<Renderer>().bounds.size.z; print("default length = " + laser_default_length);
+        //laser_default_length = pointer.GetComponent<Renderer>().bounds.size.z; //print("default length = " + laser_default_length);
         if (wand != null && pointer != null && brush != null && Text != null) { // hide the wand
             wand.SetActive(false);
             pointer.SetActive(false);
@@ -84,14 +87,50 @@ public class Wand_behavior : MonoBehaviour {
             grip_btn_down = false;
         }
 
-        if (controller.GetPressDown(trigger_btn)) {
-            trigger_btn_pressed = true; Debug.Log("Pressed");
+        if (drag_script.num_interactables > 0 && controller.GetPressDown(trigger_btn)) {
+            trigger_btn_pressed = true; //Debug.Log("Pressed");
             if (wand_mode == 3) {
                 painting = true; 
                 line.numPositions = 0;
                 points.RemoveRange(0, points.Count);
                 //line.startColor = Color.red;
                 //line.endColor = Color.yellow;
+            }
+
+            if (wand_mode == 2)
+            {
+                RaycastHit hit;
+                if (Physics.Raycast(transform.position, transform.forward, out hit))
+                {
+                    if (hit.collider.gameObject.name.Equals("New_york_times"))
+                    {
+                        List<Region_map> map = hit.collider.gameObject.GetComponent<Ocr>().word_map;
+                        if (map != null)
+                        {
+                            Vector2 hit_coord = hit.textureCoord; //get the hit uv-coordinate on the texture
+                            Debug.Log("Hit coord: " + hit_coord);
+                            GameObject webpage = hit.collider.gameObject;
+                            Texture2D original_texture = webpage.GetComponent<Ocr>().texture;
+                            float texture_x = hit_coord.x * original_texture.width;
+                            float texture_y = (1 - hit_coord.y) * original_texture.height;
+                            Vector2 texture_point = new Vector2(texture_x, texture_y);
+                            Debug.Log("Texture coord: " + texture_x + ", " + texture_y);
+                            foreach (Region_map m in map)
+                            {
+                                if (webpage.GetComponent<Ocr>().within_region(texture_point, m.getRect()))
+                                {
+                                    string word = m.getWord();
+                                    Debug.Log("Clicking on " + word);
+                                    GameObject text = GameObject.Instantiate(webpage.GetComponent<Ocr>().prefab, hit.point, Quaternion.Euler(new Vector3(0, -90, 0)));
+                                    text.GetComponent<TextMesh>().text = word;
+                                    text.AddComponent<BoxCollider>();
+                                    //render_text(hit.point, word);
+                                    break;
+                                }
+                            }
+                        }
+                    }
+                }
             }
         }
 
@@ -119,30 +158,52 @@ public class Wand_behavior : MonoBehaviour {
     void change_wand() {
         switch (wand_mode) {
             case 0:
-                Debug.Log("Wand");
-                wand.SetActive(true);
-                wand_mode++; break;
+                active_select(); break; 
             case 1:
-                Debug.Log("Pointer");
-                wand.SetActive(false);
-                pointer.SetActive(true);
-                Text.SetActive(true);
-                wand_mode++; break;
+                active_recognize(); break;
             case 2:
-                Debug.Log("Brush");
-                pointer.SetActive(false);
-                Text.SetActive(false);
-                brush.SetActive(true);
-                wand_mode++; break;
+                active_brush();  break;
             case 3:
-                brush.SetActive(false);
-                wand_mode = 0; break;
+                deactive_wand(); break;
             default: break;
         }
     }
 
+    public void active_select() {
+        Debug.Log("Wand");
+        wand.SetActive(true);
+        brush.SetActive(false);
+        pointer.SetActive(false);
+        wand_mode++; 
+    }
+
+    public void active_recognize() {
+        Debug.Log("Pointer");
+        wand.SetActive(false);
+        pointer.SetActive(true);
+        brush.SetActive(false);
+        //Text.SetActive(true);
+        wand_mode++; 
+    }
+
+    public void active_brush() {
+        Debug.Log("Brush");
+        wand.SetActive(false);
+        pointer.SetActive(false);
+        //Text.SetActive(false);
+        brush.SetActive(true);
+        wand_mode++; 
+    }
+
+    public void deactive_wand() {
+        brush.SetActive(false);
+        pointer.SetActive(false);
+        wand.SetActive(false);
+        wand_mode = 0;
+    }
+
     void OnTriggerEnter(Collider other_col) {
-        Debug.Log("Trigger enter");
+        //Debug.Log("Trigger enter");
         RaycastHit hit;
         if (Physics.Raycast(transform.position, transform.forward, out hit)) {
             if (wand_mode == 2 || wand_mode == 3) {
@@ -164,7 +225,7 @@ public class Wand_behavior : MonoBehaviour {
     }
 
     void OnTriggerExit(Collider other_col) {
-        Debug.Log("Trigger exit");
+        //Debug.Log("Trigger exit");
         painting = false;
     }
 

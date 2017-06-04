@@ -1708,3 +1708,1051 @@
 [1229/082329:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
 [1229/082329:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
 [1229/082329:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/223025:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_12_10/CAD/Assets\awe_plugins
+[0104/223025:INFO:(0)] WebCore is now online.
+[0104/223025:INFO:(0)] Running Awesomium 1.7.5.1
+[0104/223025:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/223025:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/223025:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/223025:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/223028:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0104/223031:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/223031:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/223031:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/223031:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/223042:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/223042:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/223042:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/223042:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/223100:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/223100:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/223100:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/223100:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/223134:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/223134:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/223134:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/223134:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/223240:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/223240:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/223240:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/223240:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/223443:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/223443:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/223443:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/223443:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/223645:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/223645:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/223645:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/223645:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/223847:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/223847:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/223847:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/223847:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/224049:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/224049:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/224049:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/224049:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/224252:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/224252:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/224252:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/224252:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/224454:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/224454:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/224454:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/224454:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/224656:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/224656:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/224656:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/224656:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/224858:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/224858:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/224858:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/224858:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/225101:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/225101:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/225101:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/225101:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/225303:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/225303:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/225303:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/225303:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/225505:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/225505:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/225505:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/225505:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/225708:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/225708:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/225708:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/225708:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/225910:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/225910:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/225910:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/225910:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/230112:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/230112:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/230112:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/230112:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/230314:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/230314:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/230314:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/230314:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/230517:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/230517:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/230517:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/230517:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/230719:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/230719:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/230719:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/230719:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/230921:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/230921:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/230921:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/230921:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/231123:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/231123:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/231123:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/231123:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/231326:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/231326:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/231326:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/231326:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/231528:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/231528:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/231528:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/231528:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/231730:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/231730:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/231730:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/231730:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/231933:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/231933:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/231933:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/231933:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/232135:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/232135:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/232135:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/232135:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/232337:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/232337:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/232337:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/232337:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/232539:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/232539:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/232539:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/232539:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/232742:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/232742:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/232742:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/232742:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/232944:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/232944:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/232944:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/232944:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/233146:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/233146:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/233146:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/233146:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/233348:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/233348:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/233348:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/233348:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/233551:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/233551:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/233551:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/233551:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/233753:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/233753:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/233753:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/233753:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/233955:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/233955:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/233955:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/233955:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/234157:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/234157:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/234157:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/234157:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/234400:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/234400:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/234400:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/234400:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/234602:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/234602:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/234602:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/234602:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/234804:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/234804:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/234804:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/234804:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/235007:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/235007:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/235007:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/235007:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/235209:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/235209:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/235209:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/235209:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/235411:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/235411:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/235411:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/235411:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/235613:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/235613:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/235613:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/235613:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/235816:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/235816:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/235816:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0104/235816:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/000018:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/000018:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/000018:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/000018:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/000220:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/000220:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/000220:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/000220:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/000422:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/000422:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/000422:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/000422:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/000625:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/000625:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/000625:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/000625:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/000827:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/000827:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/000827:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/000827:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/001029:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/001029:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/001029:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/001029:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/001231:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/001231:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/001231:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/001231:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/001349:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0105/001434:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/001434:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/001434:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/001434:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/001626:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_12_10/CAD/Assets\awe_plugins
+[0105/001626:INFO:(0)] WebCore is now online.
+[0105/001626:INFO:(0)] Running Awesomium 1.7.5.1
+[0105/001626:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/001626:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/001626:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/001626:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/001629:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0105/001632:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/001632:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/001632:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/001632:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/001642:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/001642:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/001642:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/001642:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/001701:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/001701:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/001701:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/001701:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/001735:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/001735:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/001735:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/001735:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/001841:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/001841:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/001841:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/001841:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/002044:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/002044:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/002044:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/002044:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/002246:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/002246:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/002246:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/002246:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/002448:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/002448:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/002448:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/002448:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/002650:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/002650:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/002650:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/002650:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/002853:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/002853:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/002853:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/002853:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/003055:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/003055:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/003055:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/003055:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/003257:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/003257:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/003257:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/003257:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/003459:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/003459:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/003459:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/003459:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/003702:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/003702:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/003702:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/003702:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/003904:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/003904:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/003904:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/003904:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/004106:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/004106:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/004106:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/004106:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/004308:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/004308:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/004308:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/004308:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/004511:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/004511:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/004511:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/004511:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/004713:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/004713:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/004713:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/004713:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/004915:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/004915:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/004915:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/004915:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/005118:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/005118:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/005118:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/005118:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/005320:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/005320:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/005320:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/005320:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/005522:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/005522:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/005522:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/005522:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/005724:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/005724:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/005724:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/005724:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/005927:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/005927:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/005927:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/005927:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/010129:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/010129:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/010129:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/010129:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/222704:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_12_10/CAD/Assets\awe_plugins
+[0105/222704:INFO:(0)] WebCore is now online.
+[0105/222704:INFO:(0)] Running Awesomium 1.7.5.1
+[0105/222704:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/222704:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/222704:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/222704:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/222707:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0105/222711:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/222711:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/222711:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/222711:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/222721:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/222721:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/222721:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/222721:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/222739:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/222739:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/222739:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/222739:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/222813:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/222813:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/222813:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/222813:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/222920:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/222920:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/222920:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/222920:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/223122:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/223122:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/223122:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/223122:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/223324:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/223324:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/223324:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/223324:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/223527:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/223527:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/223527:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/223527:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/223729:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/223729:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/223729:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/223729:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/223931:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/223931:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/223931:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/223931:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/224133:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/224133:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/224133:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/224133:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/224336:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/224336:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/224336:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/224336:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/224538:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/224538:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/224538:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/224538:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/224740:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/224740:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/224740:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/224740:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/224942:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/224942:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/224942:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/224942:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/225145:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/225145:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/225145:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/225145:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/225348:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/225348:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/225348:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/225348:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/225550:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/225550:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/225550:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/225550:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/225752:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/225752:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/225752:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/225752:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/225955:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/225955:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/225955:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/225955:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/230157:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/230157:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/230157:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/230157:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/230359:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/230359:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/230359:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/230359:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/230601:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/230601:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/230601:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/230601:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/230804:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/230804:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/230804:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/230804:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/231006:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/231006:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/231006:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/231006:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/231208:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/231208:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/231208:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/231208:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/231410:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/231410:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/231410:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/231410:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/231613:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/231613:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/231613:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0105/231613:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0217/175238:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_1_5/CAD/Assets\awe_plugins
+[0217/175238:INFO:(0)] WebCore is now online.
+[0217/175238:INFO:(0)] Running Awesomium 1.7.5.1
+[0217/175241:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0228/191227:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_1_5/CAD/Assets\awe_plugins
+[0228/191228:INFO:(0)] WebCore is now online.
+[0228/191228:INFO:(0)] Running Awesomium 1.7.5.1
+[0228/191231:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0228/191235:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0228/214353:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_1_5/CAD/Assets\awe_plugins
+[0228/214353:INFO:(0)] WebCore is now online.
+[0228/214353:INFO:(0)] Running Awesomium 1.7.5.1
+[0228/214356:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0228/220009:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0228/220506:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0228/220635:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0228/220635:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0228/220957:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0228/221402:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0228/221536:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0228/232756:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_1_5/CAD/Assets\awe_plugins
+[0228/232756:INFO:(0)] WebCore is now online.
+[0228/232756:INFO:(0)] Running Awesomium 1.7.5.1
+[0228/232759:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0228/233027:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_1_5/CAD/Assets\awe_plugins
+[0228/233027:INFO:(0)] WebCore is now online.
+[0228/233027:INFO:(0)] Running Awesomium 1.7.5.1
+[0228/233030:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0301/001127:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_1_5/CAD/Assets\awe_plugins
+[0301/001127:INFO:(0)] WebCore is now online.
+[0301/001127:INFO:(0)] Running Awesomium 1.7.5.1
+[0301/001148:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0301/001306:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_1_5/CAD/Assets\awe_plugins
+[0301/001306:INFO:(0)] WebCore is now online.
+[0301/001306:INFO:(0)] Running Awesomium 1.7.5.1
+[0301/001309:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0301/012248:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_1_5/CAD/Assets\awe_plugins
+[0301/012248:INFO:(0)] WebCore is now online.
+[0301/012248:INFO:(0)] Running Awesomium 1.7.5.1
+[0301/012251:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0303/142312:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_1_5/CAD/Assets\awe_plugins
+[0303/142312:INFO:(0)] WebCore is now online.
+[0303/142312:INFO:(0)] Running Awesomium 1.7.5.1
+[0303/142315:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0315/150744:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_1_5/CAD/Assets\awe_plugins
+[0315/150744:INFO:(0)] WebCore is now online.
+[0315/150744:INFO:(0)] Running Awesomium 1.7.5.1
+[0315/150747:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0315/174922:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0317/160034:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_1_5/CAD/Assets\awe_plugins
+[0317/160034:INFO:(0)] WebCore is now online.
+[0317/160034:INFO:(0)] Running Awesomium 1.7.5.1
+[0317/160037:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0319/191624:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_1_5/CAD/Assets\awe_plugins
+[0319/191624:INFO:(0)] WebCore is now online.
+[0319/191624:INFO:(0)] Running Awesomium 1.7.5.1
+[0319/191627:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0319/191627:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/191627:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/191715:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/191715:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/191757:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/191757:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/192042:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/192042:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/192210:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/192210:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/192242:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/192242:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/193548:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/193548:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/193651:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/193652:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/193842:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/193843:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/193946:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/193947:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/201340:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/201340:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/201628:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/201629:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/201759:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/201800:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/202017:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/202017:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/202119:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/202119:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/202212:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/202212:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/202229:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/202230:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/202257:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_1_5/CAD/Assets\awe_plugins
+[0319/202257:INFO:(0)] WebCore is now online.
+[0319/202257:INFO:(0)] Running Awesomium 1.7.5.1
+[0319/202259:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0319/202300:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/202300:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/202345:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/202345:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/202417:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/202417:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/202621:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/202622:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/202741:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/202741:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/205615:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/205615:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/205831:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/205832:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/205856:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/205856:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/205914:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/205915:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/205931:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/205932:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/210142:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/210142:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/210207:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/210208:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/210235:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/210236:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/210326:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/210327:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/210517:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/210517:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/212351:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/212351:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/212420:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/212420:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/213803:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/213803:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/213832:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/213832:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/213856:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/213857:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/213915:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/213915:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/213922:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/213922:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/214309:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/214310:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/214813:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/214814:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/214848:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/214848:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/215130:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/215130:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/215215:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/215216:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/223632:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/223633:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/224210:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/224210:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/224355:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/224355:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/224414:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/224415:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/224508:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/224509:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/225724:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/225724:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/230543:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/230543:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/230602:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/230603:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/230646:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/230646:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/230759:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/230759:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/230814:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/230814:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/231029:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/231029:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/231112:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/231112:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/231137:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/231137:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/231152:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/231153:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/231244:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/231244:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/231943:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/231943:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/232012:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/232012:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/232039:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/232039:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/232057:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/232058:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/232206:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/232206:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/232239:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/232240:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/232306:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/232307:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/232444:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/232445:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/232553:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/232553:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/232641:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/232641:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/233007:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/233008:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/233110:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/233111:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/233135:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/233136:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/233235:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/233236:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/233330:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/233330:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/233444:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_1_5/CAD/Assets\awe_plugins
+[0319/233444:INFO:(0)] WebCore is now online.
+[0319/233444:INFO:(0)] Running Awesomium 1.7.5.1
+[0319/233446:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/233446:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0319/233446:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/233719:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0319/233719:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/000809:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/000809:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/000848:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/000848:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/001015:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/001015:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/001104:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/001104:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/001115:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/001115:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/001721:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/001722:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/004029:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/004029:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/004047:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/004048:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/004102:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/004102:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/004113:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/004114:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/004409:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/004409:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/004510:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/004511:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/004548:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/004548:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/004604:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/004604:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/004828:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/004829:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/010131:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/010132:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/010259:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/010300:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/010327:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/010328:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/010354:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/010354:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/010357:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0320/010652:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/010652:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/010810:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/010810:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/010823:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/010823:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/010832:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/010833:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/010841:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/010842:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/010846:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/010847:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/011817:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/011817:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/013316:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/013317:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0320/173009:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_1_5/CAD/Assets\awe_plugins
+[0320/173009:INFO:(0)] WebCore is now online.
+[0320/173009:INFO:(0)] Running Awesomium 1.7.5.1
+[0320/173012:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0320/174618:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_1_5/CAD/Assets\awe_plugins
+[0320/174618:INFO:(0)] WebCore is now online.
+[0320/174618:INFO:(0)] Running Awesomium 1.7.5.1
+[0320/174620:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0320/192014:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0320/192421:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_1_5/CAD/Assets\awe_plugins
+[0320/192421:INFO:(0)] WebCore is now online.
+[0320/192421:INFO:(0)] Running Awesomium 1.7.5.1
+[0320/192424:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0320/195235:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_1_5/CAD/Assets\awe_plugins
+[0320/195235:INFO:(0)] WebCore is now online.
+[0320/195235:INFO:(0)] Running Awesomium 1.7.5.1
+[0320/195238:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0320/233243:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_1_5/CAD/Assets\awe_plugins
+[0320/233243:INFO:(0)] WebCore is now online.
+[0320/233243:INFO:(0)] Running Awesomium 1.7.5.1
+[0320/233246:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0326/175603:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_1_5/CAD/Assets\awe_plugins
+[0326/175603:INFO:(0)] WebCore is now online.
+[0326/175603:INFO:(0)] Running Awesomium 1.7.5.1
+[0326/175606:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0326/175607:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0326/175607:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0326/180153:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0326/180153:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0326/180157:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0326/180157:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0326/180157:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0326/180314:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0326/180315:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0326/180318:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0326/180318:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0326/180417:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0326/180417:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0326/180559:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0326/180600:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0326/180624:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0326/180625:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0326/180646:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0326/180646:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0326/180706:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0326/180706:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0326/180758:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0326/180758:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0326/181007:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0326/181007:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0326/181305:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0326/181305:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0326/181444:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0326/181444:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0326/181548:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0326/181549:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0326/181808:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0326/181809:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0326/211133:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0326/211133:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0326/211445:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0326/211445:INFO:tab_contents.cc(1297)] https://www.nytimes.com ran insecure content from http://typeface.nytimes.com/css/zam5nzz.css
+[0328/174816:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_1_5/CAD/Assets\awe_plugins
+[0328/174816:INFO:(0)] WebCore is now online.
+[0328/174816:INFO:(0)] Running Awesomium 1.7.5.1
+[0328/174819:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0328/174847:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0328/174847:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0328/174847:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0328/175929:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0328/175929:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0330/235224:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_1_5/CAD/Assets\awe_plugins
+[0330/235224:INFO:(0)] WebCore is now online.
+[0330/235224:INFO:(0)] Running Awesomium 1.7.5.1
+[0330/235227:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0331/004307:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0331/004307:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0331/004307:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0331/005243:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0331/005243:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0331/005310:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0331/005310:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0331/020204:WARNING:http_cache_transaction.cc(1873)] Failed to revalidate partial entry
+[0331/020255:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0331/022912:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0331/025444:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0406/180423:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_1_5/CAD/Assets\awe_plugins
+[0406/180423:INFO:(0)] WebCore is now online.
+[0406/180423:INFO:(0)] Running Awesomium 1.7.5.1
+[0406/180426:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0406/181732:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0406/181732:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0406/181732:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0406/182332:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0406/182332:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0406/183510:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0406/183730:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0406/183737:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0406/183747:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0406/183805:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0406/183839:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0406/183946:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0406/222310:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_1_5/CAD/Assets\awe_plugins
+[0406/222310:INFO:(0)] WebCore is now online.
+[0406/222310:INFO:(0)] Running Awesomium 1.7.5.1
+[0406/222313:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0406/222505:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0406/222505:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0406/222505:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0406/222555:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0406/222555:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0407/003446:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0407/003446:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0407/004820:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0407/004820:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0407/035402:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_1_5/CAD/Assets\awe_plugins
+[0407/035402:INFO:(0)] WebCore is now online.
+[0407/035402:INFO:(0)] Running Awesomium 1.7.5.1
+[0407/035405:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0407/035419:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0407/035419:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0407/035419:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0407/035821:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0407/035821:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0407/073845:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_1_5/CAD/Assets\awe_plugins
+[0407/073845:INFO:(0)] WebCore is now online.
+[0407/073845:INFO:(0)] Running Awesomium 1.7.5.1
+[0407/073848:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0407/073903:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0407/073903:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0407/073903:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0407/074018:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0407/074018:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0413/171536:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_1_5/CAD/Assets\awe_plugins
+[0413/171536:INFO:(0)] WebCore is now online.
+[0413/171536:INFO:(0)] Running Awesomium 1.7.5.1
+[0413/171539:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0413/171613:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0413/171613:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0413/171613:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server pm.w55c.net:443 failed; NSS error code -5938, net_error -107
+[0413/171613:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: pm.w55c.net:443
+[0413/171613:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0413/171613:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server pm.w55c.net:443 failed; NSS error code -5938, net_error -107
+[0413/171613:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0413/171613:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0413/171613:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0413/171613:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0413/172755:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0413/172755:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0414/001801:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0414/001801:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0414/001825:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0414/001825:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0414/003535:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0414/003535:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0414/042104:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_1_5/CAD/Assets\awe_plugins
+[0414/042104:INFO:(0)] WebCore is now online.
+[0414/042104:INFO:(0)] Running Awesomium 1.7.5.1
+[0414/042106:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0414/042238:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0414/042238:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0414/042238:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0414/042336:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0414/042336:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0414/070153:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_1_5/CAD/Assets\awe_plugins
+[0414/070153:INFO:(0)] WebCore is now online.
+[0414/070153:INFO:(0)] Running Awesomium 1.7.5.1
+[0414/070208:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0414/070243:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0414/070243:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0414/070243:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0414/070408:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0414/070408:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0414/074536:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_1_5/CAD/Assets\awe_plugins
+[0414/074536:INFO:(0)] WebCore is now online.
+[0414/074536:INFO:(0)] Running Awesomium 1.7.5.1
+[0414/074539:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0414/074636:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0414/074636:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0414/074636:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0414/074636:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0414/074636:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0414/075835:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0414/075835:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0414/080959:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_1_5/CAD/Assets\awe_plugins
+[0414/080959:INFO:(0)] WebCore is now online.
+[0414/080959:INFO:(0)] Running Awesomium 1.7.5.1
+[0414/081001:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0414/081238:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_1_5/CAD/Assets\awe_plugins
+[0414/081238:INFO:(0)] WebCore is now online.
+[0414/081238:INFO:(0)] Running Awesomium 1.7.5.1
+[0414/081241:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0414/081300:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0414/081300:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0414/081300:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0414/081329:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0414/081329:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0414/090547:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0425/220647:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_1_5/CAD/Assets\awe_plugins
+[0425/220647:INFO:(0)] WebCore is now online.
+[0425/220647:INFO:(0)] Running Awesomium 1.7.5.1
+[0425/220650:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0425/220743:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0425/220743:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0425/220743:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0425/225814:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0425/225814:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0426/000259:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0426/000259:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0426/001153:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0426/001153:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0426/001301:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0426/001301:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0426/020447:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_1_5/CAD/Assets\awe_plugins
+[0426/020447:INFO:(0)] WebCore is now online.
+[0426/020447:INFO:(0)] Running Awesomium 1.7.5.1
+[0426/020449:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0426/020614:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0426/020614:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0426/020614:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0426/020855:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0426/020855:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0426/022957:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_1_5/CAD/Assets\awe_plugins
+[0426/022957:INFO:(0)] WebCore is now online.
+[0426/022957:INFO:(0)] Running Awesomium 1.7.5.1
+[0426/023000:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0426/023046:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0426/023046:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0426/023046:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0426/023218:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0426/023218:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0426/025450:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_1_5/CAD/Assets\awe_plugins
+[0426/025450:INFO:(0)] WebCore is now online.
+[0426/025450:INFO:(0)] Running Awesomium 1.7.5.1
+[0426/025452:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0426/025549:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0426/025549:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0426/025549:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0426/025714:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0426/025714:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0426/032901:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server pm.w55c.net:443 failed; NSS error code -5938, net_error -107
+[0426/032901:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: pm.w55c.net:443
+[0426/032901:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server pm.w55c.net:443 failed; NSS error code -5938, net_error -107
+[0426/032922:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: pm.w55c.net:443
+[0426/032923:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server pm.w55c.net:443 failed; NSS error code -5938, net_error -107
+[0426/035021:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: pm.w55c.net:443
+[0426/035021:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server pm.w55c.net:443 failed; NSS error code -5938, net_error -107
+[0426/035335:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_1_5/CAD/Assets\awe_plugins
+[0426/035335:INFO:(0)] WebCore is now online.
+[0426/035335:INFO:(0)] Running Awesomium 1.7.5.1
+[0426/035338:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0426/035345:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0426/035345:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0426/035345:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0426/035442:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0426/035442:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0426/041926:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server pm.w55c.net:443 failed; NSS error code -5938, net_error -107
+[0426/041926:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: pm.w55c.net:443
+[0426/041926:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server pm.w55c.net:443 failed; NSS error code -5938, net_error -107
+[0426/042945:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_1_5/CAD/Assets\awe_plugins
+[0426/042945:INFO:(0)] WebCore is now online.
+[0426/042945:INFO:(0)] Running Awesomium 1.7.5.1
+[0426/042948:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0426/042955:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0426/042955:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0426/042955:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0426/043007:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0426/043007:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0426/050035:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_1_5/CAD/Assets\awe_plugins
+[0426/050035:INFO:(0)] WebCore is now online.
+[0426/050035:INFO:(0)] Running Awesomium 1.7.5.1
+[0426/050038:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0426/050104:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0426/050104:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0426/050104:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0426/050338:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0426/050338:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0426/051909:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_1_5/CAD/Assets\awe_plugins
+[0426/051909:INFO:(0)] WebCore is now online.
+[0426/051909:INFO:(0)] Running Awesomium 1.7.5.1
+[0426/051911:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0426/051927:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0426/051927:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0426/051927:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0426/052118:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0426/052118:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0426/052415:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_1_5/CAD/Assets\awe_plugins
+[0426/052415:INFO:(0)] WebCore is now online.
+[0426/052415:INFO:(0)] Running Awesomium 1.7.5.1
+[0426/052418:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0426/052438:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0426/052438:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0426/052438:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0426/052756:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0426/052756:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0428/164546:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_1_5/CAD/Assets\awe_plugins
+[0428/164546:INFO:(0)] WebCore is now online.
+[0428/164546:INFO:(0)] Running Awesomium 1.7.5.1
+[0428/164549:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0428/164635:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0428/164635:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0428/164635:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0428/164722:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0428/164722:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0428/173731:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/linin/Documents/CAD_1_5/CAD/Assets\awe_plugins
+[0428/173731:INFO:(0)] WebCore is now online.
+[0428/173731:INFO:(0)] Running Awesomium 1.7.5.1
+[0428/173734:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0428/173813:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0428/173813:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0428/173813:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107
+[0428/174415:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: idsync.rlcdn.com:443
+[0428/174415:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server idsync.rlcdn.com:443 failed; NSS error code -5938, net_error -107

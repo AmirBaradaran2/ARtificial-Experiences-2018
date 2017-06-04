@@ -27,13 +27,13 @@ public class Navigation_grip : MonoBehaviour {
         }
 
         if (controller.GetPress(grip_btn)) { // grip button pressed -> navigation
-            Debug.Log("Grip button pressed. Navigating..");
+            //Debug.Log("Grip button pressed. Navigating..");
             rb.AddForce(transform.rotation * Vector3.forward * force);
             rb.maxAngularVelocity = 2f;
         }
 
         if (controller.GetPressUp(grip_btn)) { // grip button up -> stop navigation
-            Debug.Log("Grip button up. Stop navigation.");
+            //Debug.Log("Grip button up. Stop navigation.");
         }
 
 

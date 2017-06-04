@@ -1,7 +1,6 @@
 using UnityEngine;
 using System.Collections;
 
-
 public class AwesomiumUnityWebTexture : MonoBehaviour 
 {
 	public int m_Width = 512;
@@ -26,7 +25,9 @@ public class AwesomiumUnityWebTexture : MonoBehaviour
 	private Texture2D m_Texture = null;
 	
 	static private int[] MouseButtonsMap = {0, 2, 1};
-	
+
+    public static bool webpage_ready = false;
+
 	public AwesomiumUnityWebView WebView
 	{
 		get	
@@ -79,7 +80,6 @@ public class AwesomiumUnityWebTexture : MonoBehaviour
 		}
 		else if (GetComponent<Renderer>() && GetComponent<Renderer>().material)
 		{
-            Debug.Log("Get material.");	
 			GetComponent<Renderer>().material.mainTexture = m_Texture;
 			GetComponent<Renderer>().material.mainTextureScale = new Vector2(	Mathf.Abs(GetComponent<Renderer>().material.mainTextureScale.x) * (m_FlipX ? -1.0f : 1.0f),
 			                                                 Mathf.Abs(GetComponent<Renderer>().material.mainTextureScale.y) * (m_FlipY ? -1.0f : 1.0f));
@@ -101,14 +101,16 @@ public class AwesomiumUnityWebTexture : MonoBehaviour
 
 			// Now load the URL.
 			LoadURL(m_URL);
-			
-			//while (m_WebView.IsLoading)
-			//{
-			//    AwesomiumUnityWebCore.Update();	
-			//}
-		}
+
+            //webpage_ready = true;
+
+            //while (m_WebView.IsLoading)
+            //{
+            //    AwesomiumUnityWebCore.Update();	
+            //}
+        }
 	}
-	
+
 	void OnMouseOver()
 	{
 		if (!m_Interactive) return;
@@ -171,10 +173,14 @@ public class AwesomiumUnityWebTexture : MonoBehaviour
 		{
 			if (m_WebView.IsDirty)
 			{
-                if (m_Texture == null)
-                    Debug.LogError("The WebTexture does not have a texture assigned and will not paint.");
-                else
-                    m_WebView.CopyBufferToTexture(m_Texture.GetNativeTexturePtr(), m_Texture.width, m_Texture.height);
+                        if (m_Texture == null)
+                            Debug.LogError("The WebTexture does not have a texture assigned and will not paint.");
+                        else
+                        {
+                            m_WebView.CopyBufferToTexture(m_Texture.GetNativeTexturePtr(), m_Texture.width, m_Texture.height);
+                            
+                            webpage_ready = true; //Debug.Log("Webpage is ready");
+                        }
 			}
 			break;	
 		}
@@ -248,7 +254,7 @@ public class AwesomiumUnityWebTexture : MonoBehaviour
 		}
 		case EventType.ScrollWheel:
 		{
-			if (!m_Interactive)
+            if (!m_Interactive)
 				break;
 			
 			if (m_HasFocus)

@@ -19,7 +19,8 @@ public class AwesomiumUnityWebCore
 												        bool _Dart,
 												        bool _HTML5LocalStorage,
 												        bool _SmoothScrolling,
-												        bool _WebSecurity);
+												        bool _WebSecurity,
+                                                        bool _HideScrollBars);
 	
 	[DllImport(DllName, CallingConvention = CallingConvention.Cdecl)]
 	extern static private void awe_webcore_shutdown();
@@ -159,7 +160,8 @@ public class AwesomiumUnityWebCore
                                     AwesomiumUnityWebSession.Preferences.Dart,
                                     AwesomiumUnityWebSession.Preferences.HTML5LocalStorage,
                                     AwesomiumUnityWebSession.Preferences.SmoothScrolling,
-                                    AwesomiumUnityWebSession.Preferences.WebSecurity);
+                                    AwesomiumUnityWebSession.Preferences.WebSecurity,
+                                    AwesomiumUnityWebSession.Preferences.HideScrollBars);
 		}
 		/*else
 		{

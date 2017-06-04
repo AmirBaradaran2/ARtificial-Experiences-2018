@@ -73,6 +73,12 @@ public class ControllerFunctions : MonoBehaviour
     {        
 
     }
+
+    public int num_interactables {
+        get {
+            return objectsHoveringOver.Count;
+        }
+    }
    
     public void wandInitialized(object sender)
     {
@@ -98,7 +104,6 @@ public class ControllerFunctions : MonoBehaviour
         //Dropping from main-hand
         if (offsetLocked)
         {
-            Debug.Log("Setting rb");
             offsetLocked = false;
             interactingItem.gameObject.GetComponent<Rigidbody>().isKinematic = interactingItem.origIsKinematicSetting;
         }
@@ -152,7 +157,8 @@ public class ControllerFunctions : MonoBehaviour
         //if controller.triggerPulled, then attach        
         if (this.triggerPulled)
         {
-            Debug.Log("#Interactable items = " + objectsHoveringOver.Count);
+            //if(objectsHoveringOver.Count > 0)
+                //Debug.Log("#Interactable items = " + objectsHoveringOver.Count);
             float minDistance = float.MaxValue;
             float distance;
             //Determine which object to pickup
@@ -259,7 +265,7 @@ public class ControllerFunctions : MonoBehaviour
     
     protected void OnTriggerEnter(Collider collider)
     {
-        Debug.Log("On trigger enter");
+        //Debug.Log("Collided with : " + collider.gameObject.name);
         if (!isAttached)
         {
             collidedItem = collider.GetComponent<InteractableItem>();
@@ -268,14 +274,16 @@ public class ControllerFunctions : MonoBehaviour
             {
                 objectsHoveringOver.Add(collidedItem);
             }
-        }      
+            
+            
+        }
     }
 
     //OnTriggerExit fires when the controller Collider impacts another collider and you pull the trigger. Had to 
     //work around it with delayedExit
     protected void OnTriggerExit(Collider collider)
     {
-        Debug.Log("On trigger exit");
+        //Debug.Log("On trigger exit");
         //if (!collisionFromKey)                                  DO NOT DELETE
         //{
         InteractableItem collidedItem = collider.GetComponent<InteractableItem>();
