@@ -47,10 +47,10 @@ Project Structure (description of some general structures are omitted)
 --
 1. ***Assets/Animations***: animation clips for the yBot robot and Droid robot.
 2. ***Assets/Animators***: 
-	- ***droidAnimator(for Carmine's use only)*** : walk animator for the Droid robot; uses ***BlendX*** (movement on X axis) and ***BlendY*** (movement on Y axis) to blend between animation clips.
-	- ***yBotAnimator***: walk/pickup/sit/stand/lay animator for the yBot robot; uses ***BlendX*** (movement on X axis) and ***BlendY*** (movement on Y axis) to blend between animation clips.
-	- ***yBotPickPoemAnimator***: pick poem animator for the yBot robot; uses ***BlendX*** (movement on X axis) and ***BlendY*** (movement on Y axis) to blend between animation clips.
-	- ****yBotTurnForwardAnimator***: walk animator for the yBot robot; uses ***Turn*** (turn amount) and ***Forward*** (movement amount) to blend between animation clips.
+	- *droidAnimator(for Carmine's use only)* : walk animator for the Droid robot; uses ***BlendX*** (movement on X axis) and ***BlendY*** (movement on Y axis) to blend between animation clips.
+	- *yBotAnimator*: walk/pickup/sit/stand/lay animator for the yBot robot; uses ***BlendX*** (movement on X axis) and ***BlendY*** (movement on Y axis) to blend between animation clips.
+	- *yBotPickPoemAnimator*: pick poem animator for the yBot robot; uses ***BlendX*** (movement on X axis) and ***BlendY*** (movement on Y axis) to blend between animation clips.
+	- **yBotTurnForwardAnimator*: walk animator for the yBot robot; uses ***Turn*** (turn amount) and ***Forward*** (movement amount) to blend between animation clips.
 3. ***Assets/ButterflyParticles***: butterfly particle system [[unitypackage]](https://assetstore.unity.com/packages/vfx/particles/butterfly-particle-system-4000).
 4. ***Assets/CielaSpike***: threaded coroutine scripts [[unitypackage]](https://assetstore.unity.com/packages/tools/thread-ninja-multithread-coroutine-15717).
 5. ***Assets/Classic Skybox***: skybox textures [[unitypackage]](https://assetstore.unity.com/packages/2d/textures-materials/sky/classic-skybox-24923).
@@ -67,6 +67,21 @@ Project Structure (description of some general structures are omitted)
 16. ***Assets/Models/PrimitivePlus***: pyramid models [[unitypackage]](https://www.assetstore.unity3d.com/en/#!/content/25542).
 17. ***Assets/Models/Profile***: light profile used for the post processing filter.
 18. ***Assets/Watson***: Watson unity sdk 1.0.0.
+19. ***Assets/Scripts/IG Downloader***: scripts from Julie [[doc]](https://docs.google.com/document/d/1dYlU322MgREKFApCiEhhtbiiFRyzV7XFlqVQy2ifLU0/edit#) to download IG images and visualize on particle systems.
+20. ***Assets/Scripts/Pick Poem***: scripts related to pick poem interaction.
+	- *PickPoemGameManager.cs*: game manager in this interaction; added to the camera.
+	- *PoemBehavior.cs*: behavior of the poem on lifted up; added to the book model.
+21. ***Assets/Scripts/Robot***: scripts related to robot mecanim.
+	- *MyCameraController.cs*: camera controller that makes it focusing on the robot when a key input 'F' is given.
+	- *MyDroidRobotController.cs*: droid robot controller; differred from MyRobotController.cs in that the object is lifted up instead of playing pick up clip.
+	- *MyRobotCharacter.cs*: general robot character script that defines internally how to update the variables (in this case ***BlendX*** and ***BlendY***) of the animator and how to apply turn amount on the robot.
+		**Important func** :  *Move()*
+	- *MyRobotCharacter.cs*: general robot controller that defines when to update the animator; user inputs are triggered from this script.
+		**Important func**: *FixedUpdate()*
+	- *MyRobotTurnForwardCharacter.cs*: general robot character script that defines internally how to update the variables (in this case ***Turn*** and ***Forward***) of the animator and how to apply turn amount on the robot.
+	- *MyRobotCharacter.cs*: general robot controller that defines when to update the animator; user inputs are triggered from this script.
+		**Important func**: *FixedUpdate()*
+22. 
 
 How to Change the Avatar while Reserving all the Features
 --
