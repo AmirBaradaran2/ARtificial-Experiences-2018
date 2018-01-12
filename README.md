@@ -79,15 +79,27 @@ Project Structure (description of some general structures are omitted)
 	- *MyRobotCharacter.cs*: general robot controller that defines when to update the animator; user inputs are triggered from this script.
 		**Important func**: *FixedUpdate()*
 	- *MyRobotTurnForwardCharacter.cs*: general robot character script that defines internally how to update the variables (in this case ***Turn*** and ***Forward***) of the animator and how to apply turn amount on the robot.
+		**Important func** :  *Move()*
 	- *MyRobotCharacter.cs*: general robot controller that defines when to update the animator; user inputs are triggered from this script.
 		**Important func**: *FixedUpdate()*
-22. 
+22. ***Assets/Scripts/Watson Conversation***: scripts related to Watson services.
+	- *GameManager.cs*: game manager. 
+	- *MyConversation.cs*: script that shows how to use Conversation service.
+		**Important func**: *OnMessage()*
+	- *MySpeechToText.cs*: script that shows how to use Speech to Text service using realtime voice input; sends recognized text data directly to Conversation script via *Widget.Output*.
+	- *MyTextToSpeech.cs*: script that shows how to use Text to Speech service.
+		**Important func**: *textToSpeech(string text, string gender, bool goodNews)*
+23. ***Assets/Scripts/Utilities***: other scripts.
+	- *CanvasLookAt.cs*: keep the world space canvas looking at the camera.
+	- *TypeWord.cs*: type effect; make the text appear letter by letter.
 
 How to Change the Avatar while Reserving all the Features
 --
 1. Create a new avatar from the new model.
 2. Create an animator for the new model, tone animation clips, use the avatar created in 1. for all clips and add them to corresponding states in the animator.
-3. Add *MyCameraController.cs* to camera and apply 
+3. Add *MyCameraController.cs* to camera and throw the robot object into the script input.
+4. Add *MyRobotCharater.cs* and *MyRobotController.cs* to the robot object.
+5. Add *GameManager.cs*, *MyTextToSpeech.cs*, *MyConversation.cs*, *MySpeechToText.cs* to either camera or the showroom object and fill in the inputs as prompted. Throw the *MyRobotController.cs* on the robot object to the input *"RobotController"* of *GameManager.cs*. Should be all set then.
 
 Lighting
 --
