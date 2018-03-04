@@ -53,17 +53,35 @@ namespace Vuforia
         }
 
         /// <summary>
+<<<<<<< HEAD
         /// Initializes Vuforia; called from Start
         /// </summary>
         public VuforiaUnity.InitError Start(string licenseKey)
         {
             int errorCode = InitVuforia(licenseKey);
+=======
+        /// Initializes Vuforia
+        /// </summary>
+        public VuforiaUnity.InitError InitializeVuforia(string licenseKey)
+        {
+            VuforiaRenderer.RendererAPI rendererAPI = VuforiaRenderer.Instance.GetRendererAPI();
+            int errorCode = InitVuforia((int)rendererAPI, licenseKey);
+>>>>>>> 12b0a4668dd80710aa3ab2feca134c6c308dbb32
             if (errorCode >= 0)
                 InitializeSurface();
             return (VuforiaUnity.InitError)errorCode;
         }
 
         /// <summary>
+<<<<<<< HEAD
+=======
+        /// Called on start each time a new scene is loaded
+        /// </summary>
+        public void StartScene()
+        { }
+
+        /// <summary>
+>>>>>>> 12b0a4668dd80710aa3ab2feca134c6c308dbb32
         /// Called from Update, checks for various life cycle events that need to be forwarded
         /// to Vuforia, e.g. orientation changes
         /// </summary>
@@ -153,6 +171,7 @@ namespace Vuforia
 #endif
         }
 
+<<<<<<< HEAD
         private int InitVuforia(string licenseKey)
         {
             int errorcode = -1;
@@ -160,6 +179,15 @@ namespace Vuforia
             LoadNativeLibrariesFromJava();
             if (mVuforiaInitializer != null)
                 errorcode = mVuforiaInitializer.CallStatic<int>("initVuforia", mCurrentActivity, licenseKey);
+=======
+        private int InitVuforia(int rendererAPI, string licenseKey)
+        {
+            int errorcode = -1;
+#if UNITY_ANDROID
+            LoadNativeLibrariesFromJava();
+            if (mVuforiaInitializer != null)
+                errorcode = mVuforiaInitializer.CallStatic<int>("initVuforia", mCurrentActivity, rendererAPI, licenseKey);
+>>>>>>> 12b0a4668dd80710aa3ab2feca134c6c308dbb32
 #endif
             return errorcode;
         }

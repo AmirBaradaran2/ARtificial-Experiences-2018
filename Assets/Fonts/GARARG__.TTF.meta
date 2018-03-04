@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 61776d5633e4a79479159f149cde8f71
+timeCreated: 1491557265
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: gara
+  fontNames:
+  - gara
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 05cea42cbbe415649b68753f3f46ea64, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

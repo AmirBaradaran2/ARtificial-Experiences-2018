@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 1e0ac3960f383d44fa083f71e980d5c1
 timeCreated: 1473940606
+=======
+guid: 1ccb6ffd2066c224e91b26dd46e3aa1d
+timeCreated: 1486470567
+>>>>>>> 12b0a4668dd80710aa3ab2feca134c6c308dbb32
 licenseType: Pro
 PluginImporter:
   serializedVersion: 1
@@ -8,6 +13,7 @@ PluginImporter:
   executionOrder: {}
   isPreloaded: 0
   platformData:
+<<<<<<< HEAD
     Android:
       enabled: 1
       settings:
@@ -19,6 +25,11 @@ PluginImporter:
       enabled: 0
       settings:
         DefaultValueInitialized: true
+=======
+    Any:
+      enabled: 1
+      settings: {}
+>>>>>>> 12b0a4668dd80710aa3ab2feca134c6c308dbb32
   userData: 
   assetBundleName: 
   assetBundleVariant: 

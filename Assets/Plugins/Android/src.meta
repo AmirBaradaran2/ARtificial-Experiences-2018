@@ -1,17 +1,34 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 1aaa834bf03c64661a89b1e0056d057d
 folderAsset: yes
 timeCreated: 1478458916
+=======
+guid: 79e3d211eb441ea46a308f9efbb2e218
+folderAsset: yes
+timeCreated: 1488493716
+>>>>>>> 12b0a4668dd80710aa3ab2feca134c6c308dbb32
 licenseType: Free
 PluginImporter:
   serializedVersion: 1
   iconMap: {}
   executionOrder: {}
   isPreloaded: 0
+<<<<<<< HEAD
   platformData:
     Any:
       enabled: 1
       settings: {}
+=======
+  isOverridable: 0
+  platformData:
+    Android:
+      enabled: 1
+      settings: {}
+    Any:
+      enabled: 0
+      settings: {}
+>>>>>>> 12b0a4668dd80710aa3ab2feca134c6c308dbb32
     Editor:
       enabled: 0
       settings:

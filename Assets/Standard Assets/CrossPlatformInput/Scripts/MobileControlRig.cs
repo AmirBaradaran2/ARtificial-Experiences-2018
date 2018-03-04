@@ -9,9 +9,12 @@ namespace UnityStandardAssets.CrossPlatformInput
 {
     [ExecuteInEditMode]
     public class MobileControlRig : MonoBehaviour
+<<<<<<< HEAD
 #if UNITY_EDITOR
         , UnityEditor.Build.IActiveBuildTargetChanged
 #endif
+=======
+>>>>>>> 12b0a4668dd80710aa3ab2feca134c6c308dbb32
     {
         // this script enables or disables the child objects of a control rig
         // depending on whether the USE_MOBILE_INPUT define is declared.
@@ -19,12 +22,16 @@ namespace UnityStandardAssets.CrossPlatformInput
         // This define is set or unset by a menu item that is included with
         // the Cross Platform Input package.
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 12b0a4668dd80710aa3ab2feca134c6c308dbb32
 #if !UNITY_EDITOR
 	void OnEnable()
 	{
 		CheckEnableControlRig();
 	}
+<<<<<<< HEAD
 #else
         public int callbackOrder
         {
@@ -34,6 +41,9 @@ namespace UnityStandardAssets.CrossPlatformInput
             }
         }
 #endif
+=======
+	#endif
+>>>>>>> 12b0a4668dd80710aa3ab2feca134c6c308dbb32
 
         private void Start()
         {
@@ -57,12 +67,20 @@ namespace UnityStandardAssets.CrossPlatformInput
 
         private void OnEnable()
         {
+<<<<<<< HEAD
+=======
+            EditorUserBuildSettings.activeBuildTargetChanged += Update;
+>>>>>>> 12b0a4668dd80710aa3ab2feca134c6c308dbb32
             EditorApplication.update += Update;
         }
 
 
         private void OnDisable()
         {
+<<<<<<< HEAD
+=======
+            EditorUserBuildSettings.activeBuildTargetChanged -= Update;
+>>>>>>> 12b0a4668dd80710aa3ab2feca134c6c308dbb32
             EditorApplication.update -= Update;
         }
 
@@ -91,6 +109,7 @@ namespace UnityStandardAssets.CrossPlatformInput
                 t.gameObject.SetActive(enabled);
             }
         }
+<<<<<<< HEAD
 
 #if UNITY_EDITOR
         public void OnActiveBuildTargetChanged(BuildTarget previousTarget, BuildTarget newTarget)
@@ -98,5 +117,7 @@ namespace UnityStandardAssets.CrossPlatformInput
             CheckEnableControlRig();
         }
 #endif
+=======
+>>>>>>> 12b0a4668dd80710aa3ab2feca134c6c308dbb32
     }
 }
