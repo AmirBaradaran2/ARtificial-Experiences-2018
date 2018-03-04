@@ -4,8 +4,7 @@ Combining past works (created under amirbaradaran2)
 
 # CGUI_Amir
 Repository for Amir Baradaran's projects
->>>>>>> b4da1294851f0269385d25d9311903601ead59d3
-=======
+
 Watson Avatar
 ==
 
@@ -112,7 +111,7 @@ How to Change the Avatar while Reserving all the Features
 Lighting
 --
 Global illumination is applied and the ambient lighting source is gradient color. Post processing filter (*Assets/PostProcessing/Runtime/PostProcessingBehavior.cs*) is added to the camera and a light profile (under *Assets/Profile/ShowroomProfie.asset*) is toned.
->>>>>>> a12002bef43652deeb128c4f5360c44a85e1539d
+
 =======
 # GalleryDesign
->>>>>>> 12b0a4668dd80710aa3ab2feca134c6c308dbb32
+
