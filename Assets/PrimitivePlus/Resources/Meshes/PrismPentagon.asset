@@ -12,6 +12,7 @@ Mesh:
     firstByte: 0
     indexCount: 48
     topology: 0
+    baseVertex: 0
     firstVertex: 0
     vertexCount: 30
     localAABB:
@@ -29,6 +30,7 @@ Mesh:
   m_IsReadable: 1
   m_KeepVertices: 1
   m_KeepIndices: 1
+  m_IndexFormat: 0
   m_IndexBuffer: 000001000200000003000100040005000600040007000500080009000a0008000b0009000c000d000e000e000f000c000f0010000c0011001200130011001400120015001600170015001800160019001a001b001b001c0019001b001d001c00
   m_Skin: []
   m_VertexData:

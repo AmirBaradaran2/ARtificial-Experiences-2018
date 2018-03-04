@@ -11,12 +11,9 @@ namespace UnityStandardAssets.Utility
     [ExecuteInEditMode]
 #endif
     public class PlatformSpecificContent : MonoBehaviour
-<<<<<<< HEAD
 #if UNITY_EDITOR
         , UnityEditor.Build.IActiveBuildTargetChanged
 #endif
-=======
->>>>>>> 12b0a4668dd80710aa3ab2feca134c6c308dbb32
     {
         private enum BuildTargetGroup
         {
@@ -34,7 +31,6 @@ namespace UnityStandardAssets.Utility
 	{
 		CheckEnableContent();
 	}
-<<<<<<< HEAD
 #else
         public int callbackOrder
         {
@@ -43,25 +39,18 @@ namespace UnityStandardAssets.Utility
                 return 1;
             }
         }
-=======
->>>>>>> 12b0a4668dd80710aa3ab2feca134c6c308dbb32
 #endif
 
 #if UNITY_EDITOR
 
         private void OnEnable()
         {
-<<<<<<< HEAD
-=======
-            EditorUserBuildSettings.activeBuildTargetChanged += Update;
->>>>>>> 12b0a4668dd80710aa3ab2feca134c6c308dbb32
             EditorApplication.update += Update;
         }
 
 
         private void OnDisable()
         {
-<<<<<<< HEAD
             EditorApplication.update -= Update;
         }
 
@@ -69,12 +58,6 @@ namespace UnityStandardAssets.Utility
         {
             CheckEnableContent();
         }
-=======
-            EditorUserBuildSettings.activeBuildTargetChanged -= Update;
-            EditorApplication.update -= Update;
-        }
-
->>>>>>> 12b0a4668dd80710aa3ab2feca134c6c308dbb32
 
         private void Update()
         {

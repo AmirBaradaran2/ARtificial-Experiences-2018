@@ -1,4 +1,6 @@
-﻿Shader "Custom/Aura Glass" {
+﻿// Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
+
+Shader "Custom/Aura Glass" {
 
 	Properties {
 		_Color ("Color", Color) = (1,1,1,1)
@@ -38,7 +40,7 @@
 
 			vertexOutput vert(vertexInput input){ 
 				vertexOutput output;
-				output.pos = mul(UNITY_MATRIX_MVP, input.vertex);
+				output.pos = UnityObjectToClipPos(input.vertex);
 				output.normal = normalize(mul(float4(input.normal,0.0), unity_WorldToObject).xyz);
 				output.viewDir = normalize(_WorldSpaceCameraPos - mul(unity_ObjectToWorld, input.vertex).xyz);
 
@@ -91,7 +93,7 @@
 
 			vertexOutput vert(vertexInput input){ 
 				vertexOutput output;
-				output.pos = mul(UNITY_MATRIX_MVP, input.vertex);
+				output.pos = UnityObjectToClipPos(input.vertex);
 				output.normal = normalize(mul(float4(input.normal,0.0), unity_WorldToObject).xyz);
 				output.viewDir = normalize(_WorldSpaceCameraPos - mul(unity_ObjectToWorld, input.vertex).xyz);
 

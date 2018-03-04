@@ -1,3 +1,5 @@
+// Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
+
 Shader "Ciconia Studio/Effects/Glass/Double Sided/Advanced Blend(Triplanar Projection)" {
     Properties {
         [Space(15)][Header(Main Properties)]
@@ -140,7 +142,7 @@ Shader "Ciconia Studio/Effects/Glass/Double Sided/Advanced Blend(Triplanar Proje
                 o.bitangentDir = normalize(cross(o.normalDir, o.tangentDir) * v.tangent.w);
                 o.posWorld = mul(unity_ObjectToWorld, v.vertex);
                 float3 lightColor = _LightColor0.rgb;
-                o.pos = mul(UNITY_MATRIX_MVP, v.vertex );
+                o.pos = UnityObjectToClipPos(v.vertex );
                 UNITY_TRANSFER_FOG(o,o.pos);
                 o.screenPos = o.pos;
                 TRANSFER_VERTEX_TO_FRAGMENT(o)
@@ -391,7 +393,7 @@ Shader "Ciconia Studio/Effects/Glass/Double Sided/Advanced Blend(Triplanar Proje
                 o.bitangentDir = normalize(cross(o.normalDir, o.tangentDir) * v.tangent.w);
                 o.posWorld = mul(unity_ObjectToWorld, v.vertex);
                 float3 lightColor = _LightColor0.rgb;
-                o.pos = mul(UNITY_MATRIX_MVP, v.vertex );
+                o.pos = UnityObjectToClipPos(v.vertex );
                 UNITY_TRANSFER_FOG(o,o.pos);
                 o.screenPos = o.pos;
                 TRANSFER_VERTEX_TO_FRAGMENT(o)
