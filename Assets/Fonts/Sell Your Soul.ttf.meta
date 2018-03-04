@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+<<<<<<< HEAD
+guid: dd134ce98cc32e344b69fd703023bffb
+timeCreated: 1513316373
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+=======
+guid: 6d5c0a00ce6ace44696681381d10206f
+timeCreated: 1491557265
+licenseType: Free
+TrueTypeFontImporter:
+>>>>>>> 12b0a4668dd80710aa3ab2feca134c6c308dbb32
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sell Your Soul
+  fontNames:
+  - Sell Your Soul
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

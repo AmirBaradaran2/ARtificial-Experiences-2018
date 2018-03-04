@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 03b9fc0d12a527f40a55a4631ff1cd19
+timeCreated: 1491557265
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Twilight New Moon
+  fontNames:
+  - Twilight New Moon
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

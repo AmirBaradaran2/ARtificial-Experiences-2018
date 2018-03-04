@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+<<<<<<< HEAD
+guid: 32d4713da63240f49a200e80beab225c
+timeCreated: 1473940606
+=======
+guid: e0bd4dfc292bca04ba66f7e89e9f4ae6
+timeCreated: 1486470568
+>>>>>>> 12b0a4668dd80710aa3ab2feca134c6c308dbb32
+licenseType: Pro
+PluginImporter:
+  serializedVersion: 1
+  iconMap: {}
+  executionOrder: {}
+  isPreloaded: 0
+  platformData:
+    Any:
+      enabled: 1
+      settings: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

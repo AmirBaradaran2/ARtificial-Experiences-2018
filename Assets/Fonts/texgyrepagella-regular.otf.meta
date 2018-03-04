@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f889b1c0ff70dc940aaf996f81e34ee2
+timeCreated: 1488357268
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: TeX Gyre Pagella
+  fontNames:
+  - TeX Gyre Pagella
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

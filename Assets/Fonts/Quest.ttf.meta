@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 73cd4c912a49f9143ba2241e1aad8fd4
+timeCreated: 1491557265
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: quest
+  fontNames:
+  - quest
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
